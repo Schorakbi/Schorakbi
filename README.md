@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Schorakbi
-- 👀 I’m interested in Web Developement and i aim to be a fullstack engineer.
+- 👀 I’m interested in DevOps/Cloud Engineering and i aim to be a DevOps engineer.
 - 🌱 I’m currently learning Telecommunication Engineering at Enit(National School of Engneering of Tunis)[In Tunisia].
 - 💞️ I’m looking to find new Projects/Ideas to step up.
 - 📫 How to reach me : My twitter : @Schorakbi
